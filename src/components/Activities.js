@@ -8,7 +8,7 @@ const Activities = () => {
           Resorts
         </h3>
         <img
-          src="https://images.unsplash.com/photo-1499793983690-e29da59ef1c2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80"
+          src="https://images.unsplash.com/photo-1601510644401-f4243523ccb8?q=80&w=1450&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
           alt="/"
           className="w-full h-full object-cover relative border-4 border-white shadow-lg"
         />
@@ -18,7 +18,7 @@ const Activities = () => {
           Resorts
         </h3>
         <img
-          src="https://images.unsplash.com/photo-1599640842225-85d111c60e6b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1974&q=80"
+          src="https://images.unsplash.com/photo-1699978594760-f0042714fe8d?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
           alt="/"
           className="w-full h-full object-cover relative border-4 border-white shadow-lg"
         />
@@ -28,7 +28,7 @@ const Activities = () => {
           Resorts
         </h3>
         <img
-          src="https://images.unsplash.com/photo-1544551763-46a013bb70d5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80"
+          src="https://images.unsplash.com/photo-1580698543091-88c76b323ff1?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
           alt="/"
           className="w-full h-full object-cover relative border-4 border-white shadow-lg"
         />
